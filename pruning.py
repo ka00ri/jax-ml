@@ -8,7 +8,7 @@ def prune_weights(weights: jnp.ndarray, bias: jnp.ndarray, sparsity_percentage:f
 
     Args:
       weights: 2D array
-      bia: 1D array 
+      bias: 1D array 
       rank_sparsity: percentage of params to set to 0
     """
 
