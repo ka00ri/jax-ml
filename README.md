@@ -1,3 +1,3 @@
 # jax-ml
 
-collection of ml-related functionalities in jax
+collection of ml-related functionalities in jax.
